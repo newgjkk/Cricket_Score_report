@@ -24,7 +24,7 @@ This project involves the development of an IPLT scoreboard using SQL, encompass
 5. **Match Result APP**: Provides functionality to record, store, and manage the final outcomes of matches, including detailed results and performance summaries.
 ### Relational Data Model Design
 
-![ERD](https://github.com/newgjkk/Cricket_Score_report/blob/main/ITL 2024.png)
+![ERD](https://github.com/newgjkk/Cricket_Score_report/blob/main/ITL_2024.png)
 
 This relational model was designed to ensure efficient data storage, quick retrieval, and seamless integration with the web development team for creating the tournament's website. The structure facilitates effective communication between different data points, enhancing overall system performance and scalability.
 
