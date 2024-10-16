@@ -8,14 +8,14 @@
 This project involves the development of an IPLT scoreboard using SQL, encompassing the design, creation, and management of relational databases. It demonstrates proficiency in executing CRUD operations (Create, Read, Update, Delete) and advanced SQL queries to manipulate and analyze data effectively. The primary objective is to design a robust database architecture that supports seamless data interaction, ultimately delivering the required data format to the web development team for website integration. As of now, data from 17 completed matches has been incorporated into the system.
 
  
-**cricket 사진**
+
 ![Library_project](https://github.com/vvv/Library-System-Management---P2/blob/main/library.jpg)
 
 ## Project Structure
 
 ### Database Design
 
-![ERD](https://github.com/vvvv/Library-System-Management---P2/blob/main/library_erd.png)
+![ERD](https://github.com/newgjkk/Cricket_Score_report/blob/main/structure.JPG)
 
 1. **Team Maintenance App**: Facilitates the collection and management of detailed information regarding the teams participating in the tournament, including team names, rosters, and related data.
 2. **Player Maintenance App**: Supports the input and maintenance of player-specific information, including personal details, statistics, and performance records.
@@ -23,8 +23,8 @@ This project involves the development of an IPLT scoreboard using SQL, encompass
 4. **Score Maintenance APP**: Records and manages real-time match data, including ball-by-ball information, ensuring accurate and up-to-date score tracking throughout the tournament. 
 5. **Match Result APP**: Provides functionality to record, store, and manage the final outcomes of matches, including detailed results and performance summaries.
 ### Relational Data Model Design
-***relational 사진 **
-![ERD](https://github.com/vvvv/Library-System-Management---P2/blob/main/library_erd.png)
+
+![ERD](https://github.com/newgjkk/Cricket_Score_report/blob/main/ITL 2024.png)
 
 This relational model was designed to ensure efficient data storage, quick retrieval, and seamless integration with the web development team for creating the tournament's website. The structure facilitates effective communication between different data points, enhancing overall system performance and scalability.
 
