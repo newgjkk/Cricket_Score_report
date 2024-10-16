@@ -9,7 +9,7 @@ This project involves the development of an IPLT scoreboard using SQL, encompass
 
  
 
-![Library_project](https://github.com/vvv/Library-System-Management---P2/blob/main/library.jpg)
+![Library_project](https://github.com/newgjkk/Cricket_Score_report/blob/main/cricket.JPG)
 
 ## Project Structure
 
